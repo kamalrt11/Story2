@@ -1,1 +1,2 @@
 This is chapter 1
+But this also chapter 1
